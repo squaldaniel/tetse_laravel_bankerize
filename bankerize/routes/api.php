@@ -1,8 +1,9 @@
 <?php
 
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/proposal', function () {
+Route::get('/proposal', function (Request $request) {
     return [
         'cpf'=> "654564654654",
         "nome"=> "",
