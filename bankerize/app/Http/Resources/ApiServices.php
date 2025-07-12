@@ -56,7 +56,7 @@ class ApiServices extends JsonResource
         $response = Http::get(env('URL_AUTORIZE'));
         if($response->failed()){
             return response()->json([
-                'Message' => 'proposta ainda não aceita.'
+                'Message' => 'proposta recebida, mas, ainda não aceita.'
             ], 304);
         };
         if($response->successful()){

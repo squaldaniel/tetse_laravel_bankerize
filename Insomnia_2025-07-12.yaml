@@ -1,0 +1,376 @@
+type: collection.insomnia.rest/5.0
+name: Scratch Pad
+meta:
+  id: wrk_scratchpad
+  created: 1738854801043
+  modified: 1738854801043
+  description: ""
+collection:
+  - name: Gestão Click
+    meta:
+      id: fld_b80dde74682b48acbe92c8b3390a3764
+      created: 1738854854191
+      modified: 1741270238582
+      sortKey: -1738854854391
+      description: ""
+  - name: DAYTACred
+    meta:
+      id: fld_1e823886dd4646f2995338554c7fc2b8
+      created: 1739816478184
+      modified: 1739816492585
+      sortKey: -1738854854291
+      description: ""
+  - name: Promosys 2.0
+    meta:
+      id: fld_0ab10c3b52944cc2b5c02949e023d9fc
+      created: 1739899202208
+      modified: 1740072426568
+      sortKey: -1739899202208
+      description: ""
+  - name: JoyTech-Services
+    meta:
+      id: fld_4e07bc703bb041c2829ca1fb404f1e7b
+      created: 1739990213784
+      modified: 1739990213784
+      sortKey: -1739990213784
+      description: ""
+    children:
+      - name: WhatsApp_Consult
+        meta:
+          id: fld_3e30f8a3ea3e44ba965e4ef14b483a21
+          created: 1739990381635
+          modified: 1739990386193
+          sortKey: -1739990222729
+          description: ""
+  - name: fake_gestao_click
+    meta:
+      id: fld_43425360c3ae4832b1238b14dcba60d9
+      created: 1740351888611
+      modified: 1740351888611
+      sortKey: -1740351888611
+      description: ""
+  - name: LOCAL_TESTES
+    meta:
+      id: fld_df2c57205e3b4786ac3c65718b99314d
+      created: 1741271039600
+      modified: 1741271039600
+      sortKey: -1741271039600
+      description: ""
+  - name: DIVULGA
+    meta:
+      id: fld_88cd21f03b48482f839fe25777e0c62d
+      created: 1742669035092
+      modified: 1742669035092
+      sortKey: -1742669035092
+      description: ""
+  - name: PROMOSYS
+    meta:
+      id: fld_79e4ec75415d4aa8a9a764bc4e7118af
+      created: 1743096638520
+      modified: 1746455387290
+      sortKey: -1743096638520
+      description: ""
+    children:
+      - name: Promosys_lote
+        meta:
+          id: fld_a4fd1f38fc364e288328f95ec030911e
+          created: 1744635430128
+          modified: 1744635434539
+          sortKey: -1743096821312
+          description: ""
+      - name: RETORNOS
+        meta:
+          id: fld_b3ac9ce19b0b470ba2b97aaad8aad008
+          created: 1744643012119
+          modified: 1744643015606
+          sortKey: -1743096821412
+          description: ""
+      - name: RETOERNOS_ERROS
+        meta:
+          id: fld_ad3369e447374cce96cba913f452031e
+          created: 1744649864626
+          modified: 1744649867934
+          sortKey: -1743096821512
+          description: ""
+      - name: API_FAKE
+        meta:
+          id: fld_ca380432593147ea977cd86c4040af2b
+          created: 1744650431722
+          modified: 1744650434484
+          sortKey: -1743096821612
+          description: ""
+  - name: LOCAL
+    meta:
+      id: fld_74e807b8544e4cd5861808ebac70da62
+      created: 1744938041859
+      modified: 1744938041859
+      sortKey: -1744938041859
+      description: ""
+  - name: DIVULGA
+    meta:
+      id: fld_e444b285307a43b8b704152e155007bd
+      created: 1744938059106
+      modified: 1744938059106
+      sortKey: -1744938059106
+      description: ""
+  - name: INTELIGENCIA ARTIFICIAL
+    meta:
+      id: fld_750aa0674a7e4fd2b642aa3a11c58d51
+      created: 1745933261157
+      modified: 1745933261157
+      sortKey: -1745933261157
+      description: ""
+  - name: META FACEBOOK
+    meta:
+      id: fld_90a92a51518742faaa9816902ac20fd8
+      created: 1746384417380
+      modified: 1746384417380
+      sortKey: -1746384417380
+      description: ""
+  - name: API_JOYTEC_AUTOMACAO
+    meta:
+      id: fld_b9c5134be6ce4e348f441f7bcf696f64
+      created: 1749749214566
+      modified: 1750689139809
+      sortKey: -1749749214566
+      description: ""
+    children:
+      - name: autenticate
+        meta:
+          id: fld_b4776e19d73d44a2be7dc8edc30e3008
+          created: 1750255504889
+          modified: 1750255507897
+          sortKey: -1749749226259
+          description: ""
+      - name: question
+        meta:
+          id: fld_1635c91911d74e709e245a73df2a725a
+          created: 1750689352355
+          modified: 1750689352355
+          sortKey: -1750689352355
+          description: ""
+      - name: Campain
+        meta:
+          id: fld_4270c824f1e24b37bf62945e77d2abf9
+          created: 1751308014980
+          modified: 1751308014980
+          sortKey: -1751308014980
+          description: ""
+      - name: webhook
+        meta:
+          id: fld_043f172fd06447fdb1b206f34ea405a2
+          created: 1751401515669
+          modified: 1751401515669
+          sortKey: -1751401515669
+          description: ""
+  - name: Assas
+    meta:
+      id: fld_2fc49c0d8880419a84880e69d47c2593
+      created: 1750424823820
+      modified: 1750424823820
+      sortKey: -1750424823820
+      description: ""
+  - name: BANKERIZE
+    meta:
+      id: fld_d19c88be4b534408b4812d39f81e49d3
+      created: 1752278737766
+      modified: 1752278754095
+      sortKey: -1752278737767
+      description: ""
+    children:
+      - url: "{{ _.local_baba }}proposa"
+        name: new proposals
+        meta:
+          id: req_0e1980ac35d44775a628c12f8f7a728f
+          created: 1752278758458
+          modified: 1752289229250
+          isPrivate: false
+          description: ""
+          sortKey: -1752287559631
+        method: POST
+        body:
+          mimeType: application/json
+          text: |-
+            {
+            	"cpf" : "111.222.333-45",
+            	"nome": "José durval da silva Castelo",
+            	"data_nasc" : "1990-01-01",
+            	"valor_emprest": 1500.50,
+            	"key_pix": "durvalcastelo@meumail.com.br"
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.2.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: localhost:8000/proposal
+        name: new proposals_docker
+        meta:
+          id: req_2edc39109220459da8b8b044fdc38647
+          created: 1752289246159
+          modified: 1752290116123
+          isPrivate: false
+          description: ""
+          sortKey: -1751844540403
+        method: POST
+        body:
+          mimeType: application/json
+          text: |-
+            {
+            	"cpf" : "111.222.333-45",
+            	"nome": "José durval da silva Castelo",
+            	"data_nasc" : "1990-01-01",
+            	"valor_emprest": 2500.50,
+            	"key_pix": "durvalcastelo@meumail.com.br"
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+          - name: User-Agent
+            value: insomnia/11.2.0
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1738854818214
+    modified: 1752290122307
+  cookies:
+    - key: PHPSESSID
+      value: hk1n355ua90eej86d17gf0eirn
+      domain: 192.168.21.87
+      path: /
+      hostOnly: true
+      creation: 2025-07-11T20:18:41.407Z
+      lastAccessed: 2025-07-11T20:18:41.407Z
+      id: eb8b13a7-ce4c-41a5-87dc-2d25b4d18c1b
+    - key: XSRF-TOKEN
+      value: eyJpdiI6IjR2cEZsajd5T3VLOTkzSTJvYmdaUFE9PSIsInZhbHVlIjoiYTJ0djN4Nmtxb2E1bkN5Zk1xdU9pKzA5ZzJDZUQva2E2VCtmS0V5MnNmV04xNjVVTzk1djdzWVdXTFpGOWVCMHIwdzJjUTBzNnc1bmhZbXZRUkZ1RTFtTTdGOFpITUVLWENoWWplOUQzTjZjbndiamRlbUd4cm41K2w4S0FDdEEiLCJtYWMiOiIxOWE2NmM0ZWQzZDE0YjFiNzljMmRkNjBiY2FkODk2ODhjZjdkM2M1ZmRiZTY5MzQ1ZDY4ZTM2M2NmODQ1YzdmIiwidGFnIjoiIn0%3D
+      maxAge: 7200
+      domain: 127.0.0.1
+      path: /
+      hostOnly: true
+      creation: 2025-07-12T00:08:45.817Z
+      lastAccessed: 2025-07-12T02:47:44.597Z
+      sameSite: lax
+      id: 17a4d6c2-8513-407d-85b3-0ba010fec775
+    - key: laravel_session
+      value: eyJpdiI6IjB4MjIvL2NPMTgwY3dORWJhRGpWZXc9PSIsInZhbHVlIjoiVDZiOXZRWnJ5UjNkeklsc0dSRlhjOG1BdGFQeExBUzJxWExzSGRBeGd4bGpjblcxdCtlcm9UZmdoUUp5Yjg0MEMvY21EV1VRSlVjVFZtM2p0RWEwUnRSd21aaEwreWFGZ2lOSnZ4N295OEU5czMvenVETVd5aUt6Z09BRzJGY3AiLCJtYWMiOiI5NTViNzViYmU5MGE5MjY3NjRjMzkyZTU4YjVjZmI2YjQ2Y2RiODljY2NlN2I3MTk2OWYxY2U4ZGIzMjVkMzU0IiwidGFnIjoiIn0%3D
+      maxAge: 7200
+      domain: 127.0.0.1
+      path: /
+      httpOnly: true
+      hostOnly: true
+      creation: 2025-07-12T00:08:45.817Z
+      lastAccessed: 2025-07-12T02:47:44.597Z
+      sameSite: lax
+      id: 7bc5b214-7b90-40be-8643-7c0ea75b6dbd
+    - key: XSRF-TOKEN
+      value: eyJpdiI6IjdBNUVIOGx0MmQxWnlSUjhGNFBjZWc9PSIsInZhbHVlIjoiSHBQNTlxd3Z3MHBtaWF1TkZxU3UzVXdyS2w2UVppcVViNmwvYkk1djMwcXc4RkdNOTBuVHB3MFcwZ2NhbVZsUGFELzROQi9jdnh0Z2g0REhHRVBLSHlqS1RnbWI0WFdTRkNzb2VBZ2lNcUloRDlMcDBFRVdWblN1aWtTUEZzODIiLCJtYWMiOiIwYmQyMzE4Mzg5M2M0YzA1YWU3NmU0MTdmZjhkMjllNzFiMjliNWVhMjNmMmZiNzcwYmMzODQzOGJiNzI0M2FiIiwidGFnIjoiIn0%3D
+      maxAge: 7200
+      domain: localhost
+      path: /
+      hostOnly: true
+      creation: 2025-07-12T03:01:06.632Z
+      lastAccessed: 2025-07-12T03:15:22.307Z
+      sameSite: lax
+      id: 8403ed11-3d0a-48eb-acf8-5eee8335ea41
+    - key: bankerize_session
+      value: eyJpdiI6IlZNSXhaMCtCSWdyQ1g1ZUh4eGNCMHc9PSIsInZhbHVlIjoiV243S1F6UHkyVjRib3I0TVdMMjZ3dHZ1djVhb0FxWXpFTWVkU1ErUkdFNm5ZcG4wd0dmd2hYV2poNHc4dkI5UFhIYk1Ucy83cmhscnJpSFMwVElWSDJJWFFnSGwvZzdZUmI2VVl3cE1keFpPZlBhWGpjbWQvTEREWUxqVHZLL20iLCJtYWMiOiI3OTNmMTc4ZWM3Njg3NzNkMzQ1MTc3OWVlM2Y3YjRlMzc3MjE5ZTVlNWFlOTIwYWJiZGQyYWU4NGQ5NzZiMTNmIiwidGFnIjoiIn0%3D
+      maxAge: 7200
+      domain: localhost
+      path: /
+      httpOnly: true
+      hostOnly: true
+      creation: 2025-07-12T03:01:06.632Z
+      lastAccessed: 2025-07-12T03:15:22.307Z
+      sameSite: lax
+      id: 9766bc74-8cfa-4916-be50-458758e81c47
+environments:
+  name: Base Environment
+  meta:
+    id: env_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1738854818201
+    modified: 1752278852423
+    isPrivate: false
+  data:
+    GC_host: https://api.gestaoclick.com/
+    GC_accesstoken: 40c42405e6ca33879ae84d55e34b4cfeee744ba2
+    GC_secrettoken: 49d9c605c43cdd56f8a69e2d0986283dab825d5e
+    host_datacred: https://napi.datacred.info/
+    Whats_consult: https://sistemapromosys.com.br/services/
+    Whats_consult_token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWRfZW1wcmVzYSI6ImNiZDZlMTAyZWY4NmU4OTI3NWNjIiwibm9tZSI6IkRXV1ZAdXNlcnRlc3RlMSIsImV4cCI6MTc0MTk1OTI3Mn0.fe-YaUV__phEVjR3bA9knWeG9NM-Onh-bTzt2q5eGw0
+    Joydev_url: http://127.0.0.1:9090/api/
+    Joydev_usertoken: Xd6wlSLAXX20sYInOMEU5gBrUBwF4uNudr6XschxYAWLnp6a78cowvsySj4ZFRp
+    deep_seek_url: https://api.deepseek.com
+    new_api_external: http://200.148.90.225:3020/api/
+    new_api_local: http://192.168.21.87:3020/api/
+    local_baba: http://127.0.0.1:8000/
+  subEnvironments:
+    - name: IA - base
+      meta:
+        id: env_4e6d8212284c4965a8d36ea3453106ba
+        created: 1745933202164
+        modified: 1745933217012
+        isPrivate: true
+        sortKey: 1745933202164
+    - name: Asaas
+      meta:
+        id: env_6e2de6c8338e4882806f21e66404c4c9
+        created: 1750424770891
+        modified: 1750424783370
+        isPrivate: true
+        sortKey: 1750424770891
+    - name: Home Officce
+      meta:
+        id: env_9020a801a85949bb97e55de940501f6a
+        created: 1752074101258
+        modified: 1752074392789
+        isPrivate: true
+        sortKey: 1751249422480
+      data:
+        GC_host: https://api.gestaoclick.com/
+        GC_accesstoken: 40c42405e6ca33879ae84d55e34b4cfeee744ba2
+        GC_secrettoken: 49d9c605c43cdd56f8a69e2d0986283dab825d5e
+        host_datacred: https://napi.datacred.info/
+        Whats_consult: https://sistemapromosys.com.br/services/
+        Whats_consult_token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWRfZW1wcmVzYSI6ImNiZDZlMTAyZWY4NmU4OTI3NWNjIiwibm9tZSI6IkRXV1ZAdXNlcnRlc3RlMSIsImV4cCI6MTc0MTk1OTI3Mn0.fe-YaUV__phEVjR3bA9knWeG9NM-Onh-bTzt2q5eGw0
+        Joydev_url: http://127.0.0.1:9090/api/
+        Joydev_usertoken: Xd6wlSLAXX20sYInOMEU5gBrUBwF4uNudr6XschxYAWLnp6a78cowvsySj4ZFRp
+        deep_seek_url: https://api.deepseek.com
+        new_api_external: http://200.148.90.225:3020/api/
+        new_api_local: http://127.0.0.1:8000/api/
+    - name: online_ia
+      meta:
+        id: env_63cad86b32de40709bc4c4be1f6867d4
+        created: 1752237582951
+        modified: 1752237798256
+        isPrivate: true
+        sortKey: 1752237582951
+      data:
+        GC_host: https://api.gestaoclick.com/
+        GC_accesstoken: 40c42405e6ca33879ae84d55e34b4cfeee744ba2
+        GC_secrettoken: 49d9c605c43cdd56f8a69e2d0986283dab825d5e
+        host_datacred: https://napi.datacred.info/
+        Whats_consult: https://sistemapromosys.com.br/services/
+        Whats_consult_token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWRfZW1wcmVzYSI6ImNiZDZlMTAyZWY4NmU4OTI3NWNjIiwibm9tZSI6IkRXV1ZAdXNlcnRlc3RlMSIsImV4cCI6MTc0MTk1OTI3Mn0.fe-YaUV__phEVjR3bA9knWeG9NM-Onh-bTzt2q5eGw0
+        Joydev_url: http://127.0.0.1:9090/api/
+        Joydev_usertoken: Xd6wlSLAXX20sYInOMEU5gBrUBwF4uNudr6XschxYAWLnp6a78cowvsySj4ZFRp
+        deep_seek_url: https://api.deepseek.com
+        new_api_external: http://200.148.90.225:3020/api/
+        new_api_local: http://producaoweb.joytec.com.br/api/
