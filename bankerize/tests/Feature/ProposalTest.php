@@ -27,7 +27,7 @@ class ProposalTest extends TestCase
             "chave_pix" => "jose@pix.com"
         ];
 
-        $response = $this->postJson('/api/proposal', $payload);
+        $response = $this->postJson('/proposal', $payload);
 
         $response->assertStatus(200)
                  ->assertJsonStructure([
@@ -56,7 +56,7 @@ class ProposalTest extends TestCase
             "chave_pix" => "jose@pix.com"
         ];
 
-        $response = $this->postJson('/api/proposal', $payload);
+        $response = $this->postJson('/proposal', $payload);
 
         $response->assertStatus(500)
                  ->assertJson([
@@ -66,7 +66,7 @@ class ProposalTest extends TestCase
 
     public function test_valida_campos_obrigatorios()
     {
-        $response = $this->postJson('/api/proposal', []);
+        $response = $this->postJson('/proposal', []);
 
         $response->assertStatus(422) // erro de validação
                  ->assertJsonValidationErrors([
