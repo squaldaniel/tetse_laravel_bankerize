@@ -69,10 +69,6 @@ class ApiServices extends JsonResource
             ], 202);
         }
     }
-    public static function notify()
-    {
-
-    }
     /**
      * Verifica se a proposta com este cpf já foi cadastrada, caso já tenha sido,
      * atualiza os dados
