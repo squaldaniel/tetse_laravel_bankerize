@@ -3,29 +3,28 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: bankerize-app
     container_name: bankerize-app
-    restart: unless-stopped
+    ports:
+      - "8000:8000"
     volumes:
       - ./bankerize:/var/www
+      - ./.env:/var/www/.env
     working_dir: /var/www
     depends_on:
       - mysql
-    ports:
-      - 8000:8000
     environment:
       - DB_HOST=mysql
       - DB_PORT=3306
       - DB_DATABASE=bankerize
       - DB_USERNAME=root
       - DB_PASSWORD=root
+    command: php artisan serve --host=0.0.0.0 --port=8000
 
   mysql:
     image: mysql:8.0
     container_name: bankerize-mysql
-    restart: unless-stopped
     ports:
-      - 3306:3306
+      - "3306:3306"
     environment:
       MYSQL_DATABASE: bankerize
       MYSQL_ROOT_PASSWORD: root
